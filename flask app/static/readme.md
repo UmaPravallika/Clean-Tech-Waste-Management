@@ -1,1 +1,1 @@
-
+The CleanTech Waste Classifier is a deep learning-based web application designed to automate the classification of waste into three major categories: Biodegradable, Recyclable, and Trash. This intelligent system promotes environmental awareness by helping individuals and organizations dispose of waste responsibly through AI-powered decisions.
